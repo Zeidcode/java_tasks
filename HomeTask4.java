@@ -18,7 +18,7 @@ public class HomeTask4 {
     static ArrayList<Boolean> sexes = new ArrayList<>();
     static ArrayList<Integer> indexes = new ArrayList<>();
 
-    static int currentIndex = 0;
+    public static int currentIndex = 0;
 
     static String readLine(Scanner scanner, String message) {
         System.out.println(message);
