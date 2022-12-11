@@ -1,4 +1,4 @@
-package com.example.playground;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,7 +11,7 @@ import java.util.TreeMap;
     2. Заполнить тремя ключами (индекс, цвет), добавить ключь, если не было!)
     3. Изменить значения дописав восклицательные знаки. *Создать TreeMap, заполнить аналогично.
  */
-public class HomeWork5 {
+public class HomeTask5 {
 
     static ArrayList<String> colors = new ArrayList<String>(
             Arrays.asList("Красный", "Оранжевый", "Желтый", "Зеленый", "Синий", "Фиолетовый"));
